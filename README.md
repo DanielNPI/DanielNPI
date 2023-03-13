@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=danielnpi" alt="danielnpi" /></a> </p>
 
-- 🌱 I’m currently learning **promotion logic, Javascript**
+- 🌱 I’m currently learning **promotion logic, Javascript, HTMl, CSS**
 
 - 📫 How to reach me **danielsilvasales@outlook.com**
 
